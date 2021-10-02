@@ -16,8 +16,6 @@ anomalies and common patterns can be discovered.
 # Project is handled in a structured way with modular coding.
 Below is the work flow if this project
 
-![alt-text](https://github.com/saiganesh-d/BIGMART-SALES-PREDICTION/blob/main/screenshots/img.png)
-
 
 # Dataset Description 
 BigMart has collected sales data for 1559 products across 10 stores in different cities. Where the dataset consists of 12 attributes like Item Fat, Item Type, Item MRP, Outlet Type, Item Visibility, Item Weight, Outlet Identifier, Outlet Size, Outlet Establishment Year, Outlet Location Type, Item Identifier and Item Outlet Sales. Out of these attributes target variable is the Item Outlet Sales attribute and remaining attributes are refer as independent variables. 
@@ -37,16 +35,8 @@ The data-set is also based on hypotheses of store level and product level. Where
 
 # Snippets of Project
 
-
-#### 1) Project video:
-
-![alt-text](https://github.com/saiganesh-d/BIGMART-SALES-PREDICTION/blob/main/screenshots/saa.gif)
-
-
-#### 2) Home Page:
-
-![alt-text](https://github.com/saiganesh-d/BIGMART-SALES-PREDICTION/blob/main/screenshots/Screenshot%20(2).png)
-
+# Project Video and Homepage
+https://drive.google.com/drive/folders/1cNt1W6Z5slq8znYXGtbrAyXsnqDBgbyS?usp=sharing
 
 # How to run in Your local System
 Intial requirements:Python<br>
